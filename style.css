@@ -1,11 +1,27 @@
 .carousel-intro{
-    padding: 89px;
+    /* padding: 89px;
+    padding-right: 100px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 100px;
 }
 
-.row>*{
+.testmonial{
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.name{
+    font-size: 25px;
+    font-style: italic;
+}
+
+.row > *:first-child {
     padding-right: 0 !important;
-}
-
-image{
-    
+  }
+  
+.image{
+    height: 450px;
+    width: 100%;
 }
