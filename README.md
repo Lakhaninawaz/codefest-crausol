@@ -1,5 +1,5 @@
 
-## Demo
+## A Simple Website Built with HTML, CSS and Bootstrap
 
 Welcome to Crausol, a simple website built using HTML, CSS, and Bootstrap. This website is designed to showcase the use of these technologies in creating a clean and functional website.
 
